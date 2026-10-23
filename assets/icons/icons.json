@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/anastasia-alevizou-logo.svg"
+ },
+ "source_md5": "04d2a4b412fc7826a69d55b9eae63d21",
+ "version": "5d09ff54",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "fb1b9801496a2440290f57bc926fa52a"
+ ],
+ "made": "2026-10-23"
+}
